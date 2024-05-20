@@ -1,2 +1,2 @@
 # cdn
-WikiChree.COM's CDN
+Wikier.COM's CDN
